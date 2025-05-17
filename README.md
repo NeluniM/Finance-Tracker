@@ -59,4 +59,4 @@ Take Control 🎮: Turn budgeting into a thrilling, rewarding experience.
 Build Habits 💡: Master money management with tools tailored to your goals.
 Enjoy the Ride 🎉: Tracking finances has never been this fun and motivating!
 
-Happy budgeting, and let Spendora lead you to financial success! 💸🎊 (Updated: 11:46 PM +0530, May 17, 2025)
+Happy budgeting, and let Spendora lead you to financial success! 💸🎊 
