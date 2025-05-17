@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,100m-90,0a90,90 0,1 1,180 0a90,90 0,1 1,-180 0" />
+
+    <!-- Chart background -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M60,140h20v-40h-20zM90,140h20v-60h-20zM120,140h20v-80h-20z" />
+
+    <!-- Chart lines -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M50,140h100M50,100h100M50,60h100M50,20h100" />
+
+    <!-- Dollar sign -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,40c-5.52,0 -10,4.48 -10,10s4.48,10 10,10s10,-4.48 10,-10S105.52,40 100,40z" />
+</vector> 

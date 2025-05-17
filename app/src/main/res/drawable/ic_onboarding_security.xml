@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,100m-90,0a90,90 0,1 1,180 0a90,90 0,1 1,-180 0" />
+
+    <!-- Shield body -->
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M100,40L60,60v40c0,20 40,40 40,40s40,-20 40,-40V60L100,40z" />
+
+    <!-- Shield details -->
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M100,60v60c-10,0 -20,-10 -20,-20V80L100,60z" />
+
+    <!-- Lock -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,80c-5.52,0 -10,4.48 -10,10s4.48,10 10,10s10,-4.48 10,-10S105.52,80 100,80z" />
+</vector> 

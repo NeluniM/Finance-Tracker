@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 60-30-10 Color Rule -->
+    
+    <!-- 60% - Primary/Background -->
+    <color name="primary_background">#121212</color>
+    <color name="primary_surface">#1E1E1E</color>
+    
+    <!-- 30% - Secondary/Brand -->
+    <color name="secondary_main">#80CBC4</color>
+    <color name="secondary_light">#B2DFDB</color>
+    <color name="secondary_dark">#4DB6AC</color>
+    
+    <!-- 10% - Accent -->
+    <color name="accent">#FF8F90</color>
+    <color name="accent_light">#FFB2B3</color>
+    <color name="accent_dark">#FF6B6C</color>
+
+    <!-- Additional Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="divider">#1FFFFFFF</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_color_1">#BB86FC</color>
+    <color name="chart_color_2">#03DAC5</color>
+    <color name="chart_color_3">#FF8F90</color>
+    <color name="chart_color_4">#81C784</color>
+    <color name="chart_color_5">#FFD54F</color>
+    
+    <!-- Transaction Colors -->
+    <color name="green_500">#81C784</color>
+    <color name="red_500">#E57373</color>
+</resources> 

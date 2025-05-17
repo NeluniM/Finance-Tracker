@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,120m-100,0a100,100 0,1 1,200 0a100,100 0,1 1,-200 0" />
+
+    <!-- Chart bars -->
+    <path
+        android:fillColor="#FF018786"
+        android:pathData="M80,160h20v-30h-20zM110,160h20v-50h-20zM140,160h20v-70h-20z" />
+
+    <!-- Line graph -->
+    <path
+        android:strokeColor="#FF018786"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M80,140l30,-20l30,10l20,-30" />
+
+    <!-- Insight bulb -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M120,70c-11.05,0 -20,8.95 -20,20c0,6.71 3.31,12.66 8.4,16.32L110,130h20l1.6,-23.68c5.09,-3.66 8.4,-9.61 8.4,-16.32C140,78.95 131.05,70 120,70z" />
+
+</vector> 
