@@ -20,8 +20,7 @@ Goal-Crushing Power 🎯: Set targets like saving $500 for a gadget or a vacatio
 Smart Tips 💡: Get advice based on your spending to boost your financial health.
 Example Goal 🎉: "Save $500 by cutting dining out costs!"
 
-📸 Screenshots
-![image alt](https://github.com/NeluniM/Finance-Tracker/blob/516e8f615ffe4435da8e3fbf0b3a18aef0c0d04f/Screenshot_20250518_075246.png)
+
 
 ⚙️ Requirements 🛠️
 
